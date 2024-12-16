@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1733745178 source:c:\users\user\desktop\new folder (2)\job7\project\quiz_app\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cstdlib>
+	<ctime>
+	<algorithm>
+
+1733729713 c:\users\user\desktop\new folder (2)\job7\project\quiz_app\quiz_show.h
+	<string>
+	<vector>
+
+1733744646 source:c:\users\user\desktop\new folder (2)\job7\project\quiz_app\quiz_show_functions.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+

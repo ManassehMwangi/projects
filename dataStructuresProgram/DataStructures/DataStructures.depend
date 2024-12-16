@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1733899965 source:c:\users\user\desktop\new folder (2)\job9\datastructuresprogram\datastructures\numberlist.cpp
+	<iostream>
+	"NumberList.h"
+
+1733899917 c:\users\user\desktop\new folder (2)\job9\datastructuresprogram\datastructures\numberlist.h
+
+1616579514 source:c:\users\user\desktop\new folder (2)\job9\datastructuresprogram\datastructures\test.cpp
+	<iostream>
+	"NumberList.h"
+
